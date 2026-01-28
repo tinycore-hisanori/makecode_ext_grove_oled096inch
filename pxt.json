@@ -1,0 +1,13 @@
+{
+  "name": "pxt-grove-oled-096",
+  "version": "0.0.1",
+  "description": "Grove OLED Display 0.96 inch (SSD1308/SSD1306 compatible) for micro:bit",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "public": true
+}
